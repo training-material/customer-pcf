@@ -3,13 +3,13 @@
 ## PCF Service Creation :
 > ClearDB MySQL Database (Internal from Market Place)
 
-  cf create-service cleardb spark mydb  
+   cf create-service cleardb spark mydb  
               
    ![alt text]( https://github.com/training-material/customer-pcf/blob/master/service.PNG )<br />
   
 > Logging service - papertrial( external)
 
-  cf cups customer-log-service -l syslog://logs4.papertrailapp.com:12064
+   cf cups customer-log-service -l syslog://logs4.papertrailapp.com:12064
  
   ![alt text](https://raw.githubusercontent.com/training-material/customer-pcf/master/papertrial-log.PNG)<br />
   
@@ -17,8 +17,8 @@
 
 ## PCF Deployment : 
 
-  cf push will automatically detect manifest file in current or parent directory. if other directory
-  cf push -f path of the manifest file.
+ - cf push will automatically detect manifest file in current or parent directory. if other directory
+ - cf push -f path of the manifest file.
   
   ### Application in PCF
     
@@ -31,7 +31,7 @@
 
 ## Swagger-URI:  Rest API - CRUD operations
 
-   **http://customer-service-demo.cfapps.io/swagger-ui.html ** <br/>
+   **(http://customer-service-demo.cfapps.io/swagger-ui.html)** <br/>
 
 ![alt text](https://raw.githubusercontent.com/training-material/customer-pcf/master/swagger-ui.PNG)<br />
 
