@@ -4,8 +4,8 @@
 1. ClearDB MySQL Database (Internal from Market Place)
 
   cf create-service cleardb spark mydb  
-  
-   ![alt text](https://raw.githubusercontent.com/training-material/customer-pcf/master/service.PNG)<br />
+              
+   ![alt text]( https://github.com/training-material/customer-pcf/blob/master/service.PNG )<br />
   
 2. Logging service - papertrial( external)
 
@@ -22,10 +22,10 @@
   
   # Application in PCF
     
-   ![alt text](https://raw.githubusercontent.com/training-material/customer-pcf/master/app-console.PNG)<br />
+   ![alt text](https://github.com/training-material/customer-pcf/blob/master/app-console.PNG)<br />
    
   # Healthcheck in PCF
-    ![alt text](https://raw.githubusercontent.com/training-material/customer-pcf/master/healthcheck.PNG)<br />
+    ![alt text](https://github.com/training-material/customer-pcf/blob/master/healthcheck.PNG)<br />
 
 
 # Swagger-URI:  Rest API - CRUD operations
