@@ -25,7 +25,8 @@
    ![alt text](https://github.com/training-material/customer-pcf/blob/master/app-console.PNG)<br />
    
   # Healthcheck in PCF
-    ![alt text](https://github.com/training-material/customer-pcf/blob/master/healthcheck.PNG)<br />
+  
+     ![alt text](https://github.com/training-material/customer-pcf/blob/master/healthcheck.PNG)<br />
 
 
 # Swagger-URI:  Rest API - CRUD operations
